@@ -102,3 +102,16 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+.vscode/
+node_modules/
+build/
+temp/
+.env
+coverage
+ormconfig.json
+dist
+
+uploads/*
+!uploads/.gitkeep
