@@ -115,3 +115,5 @@ dist
 
 uploads/*
 !uploads/.gitkeep
+
+docker_commands.txt
